@@ -1,9 +1,5 @@
 let infolist = []
 
-
-function showmeinfo() {
-    
-}
 function addinfo() {
     let personalinfo = {}
     personalinfo.myfname =  document.getElementById('personsfname').value;
